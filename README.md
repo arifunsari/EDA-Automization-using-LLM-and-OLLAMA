@@ -32,7 +32,7 @@ Ollama – For AI-powered dataset analysis using LLMs like Mistral
 **📦 Installation**
 
 # Clone the repo
-git clone https://github.com/nwngrg/eda-analyzer-app.git
+git clone https://github.com/nvngrg/EDA-Automization-using-LLM-and-OLLAMA/tree/main
 cd eda-analyzer-app
 
 # Create a virtual environment (optional but recommended)
