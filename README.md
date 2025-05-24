@@ -90,10 +90,6 @@ Gradio for beautiful UIs with minimal code
 
 Seaborn for elegant visualizations
 
- Contact
-Author: Naveen Garg
-📧 nwngrg@gmail.com
-🌐 LinkedIn https://www.linkedin.com/in/naveen-garg-27335a320/ GitHub link:-  https://github.com/nvngrg 
 
 
 
